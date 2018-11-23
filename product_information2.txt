@@ -1,0 +1,190 @@
+'PRODUCT'top
+1
+green top
+56.43
+it's a plain green top
+georgesmith
+patrickgermaine
+N
+S
+-
+'PRODUCT'top
+2
+nike top
+9.99
+it's  nike top from the 90's
+patrickgermaine
+nielswalet
+M
+M
+-
+'PRODUCT'top
+3
+a mad top
+45.55
+its a top
+georgesmith
+patrickgermaine
+F
+S
+-
+'PRODUCT'top
+4
+reebok top
+34.33
+its fairly old but still okay
+patrickgermaine
+x
+M
+S
+-
+'PRODUCT'bottom
+5
+denim jeans
+1.00
+blue denim jeans, like new
+maisiewebster
+x
+F
+28,32
+-
+'PRODUCT'top
+6
+green top
+999.00
+its light green
+patrickgermaine
+x
+N
+L
+-
+'PRODUCT'shirt
+7
+a shirt
+44.00
+sfd
+patrickgermaine
+x
+M
+S
+short
+-
+'PRODUCT'bottom
+8
+jeans
+3344.00
+theyre blue jeans
+patrickgermaine
+x
+M
+30,30
+-
+'PRODUCT'shoe
+9
+nikies
+22.00
+old runners
+patrickgermaine
+x
+N
+s12
+running
+-
+'PRODUCT'shirt
+10
+ralph shirt
+44.00
+its brand new
+patrickgermaine
+x
+F
+L
+short
+-
+'PRODUCT'jumper
+11
+nans sweater
+77.00
+its xmas themed
+patrickgermaine
+x
+N
+M
+wool
+-
+'PRODUCT'jumper
+12
+mums sweater
+55.00
+its halloweeny
+patrickgermaine
+x
+M
+S
+wool
+-
+'PRODUCT'top
+13
+grey t shirt
+9.99
+its a t-shirt that is grey
+nielswalet
+x
+M
+S
+-
+
+'PRODUCT'top
+14
+smart shirt
+34.990000
+its blue and shiny
+samueldrake
+x
+M
+L
+-
+'PRODUCT'shirt
+15
+purple shirt
+12.120000
+its actually pinkish purple
+samueldrake
+x
+N
+M
+long
+-
+'PRODUCT'jumper
+16
+dark green jumper
+11.230000
+its really warm
+samueldrake
+x
+M
+M
+cotton
+-
+'PRODUCT'bottom
+17
+cargo chorts
+4.330000
+brown
+samueldrake
+x
+N
+40,46
+-
+'PRODUCT'shoe
+18
+sparkly heels
+1.000000
+silver and shiny
+samueldrake
+janeausten
+F
+s5
+formal
+-
+
